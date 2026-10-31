@@ -21,7 +21,7 @@ Pulls customer data from an API, loads it into pandas and explores it. Outputs i
 ├── README.md
 ├── .gitignore
 ├── day1-api-analysis/
-│   ├── analysis.ipynb
+│   ├── pesa-pulse.ipynb
 │   ├── output/
 │   ├── requirements.txt
 │   └── README.md
